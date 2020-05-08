@@ -2,8 +2,7 @@
 
 var login = {user:'tcaron',password:'11Brownbill!'};
 
-
-//Font Scripts
+//Button Scripts
 
 var loop = function () {
 
