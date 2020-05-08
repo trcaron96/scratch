@@ -1,3 +1,12 @@
-body{
-	background-color: green;
+body {
+	background-color: #DFFFF9;
+	
+}
+
+body h1 {
+	font-family: 'Raleway', sans-serif;	
+}
+
+div.size {
+	margin: 10px
 }
